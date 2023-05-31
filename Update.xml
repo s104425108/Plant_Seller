@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
-  <version>2.0.0.0</version>
-  <url>https://rbsoft.org/downloads/AutoUpdaterTest.zip</url>
-  <changelog>https://github.com/ravibpatel/AutoUpdater.NET/releases</changelog>
+  <version>1.0.0.0</version>
+  <url>https://github.com/s104425108/Plant_Seller/releases/download/v1.0.0.0/x64_V1.zip</url>
+  <changelog>https://github.com/s104425108/Plant_Seller/releases</changelog>
   <mandatory>false</mandatory>
 </item>
