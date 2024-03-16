@@ -1,5 +1,5 @@
 # Plant_Seller 鹿角蕨文本生成器
-![shot_1](https://github.com/s104425108/Plant_Seller/blob/main/pic/01.png)
+![shot_1](https://github.com/s104425108/Plant_Seller/blob/main/pic/2.png)
 ## 添加連線伺服器資料庫＝資料表 MySql DB＝Data Sheet 功能
 
 1.記錄文案
